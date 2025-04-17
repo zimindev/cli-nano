@@ -155,7 +155,7 @@ set softwrap
 
 ---
 
-## 📚 Learn More
+## 📚 More Info
 
 - Manual:  
 ```bash
